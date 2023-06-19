@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamcrossley
-- 👀 I’m interested in AI and more math based topics
-- 🌱 I’m currently learning C# and C/C++ (arduino)
+- 👀 I’m interested in AI and more math-based topics
+- 🌱 I’m currently learning C#, C/C++ (arduino), Java and Python
 - 📫 How to reach me crossley.will62@gmail.com
 
 <!---
